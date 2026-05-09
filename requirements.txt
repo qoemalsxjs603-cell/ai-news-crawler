@@ -1,9 +1,0 @@
-```text
-streamlit
-playwright
-pandas
-openpyxl
-beautifulsoup4
-openai
-lxml
-```
